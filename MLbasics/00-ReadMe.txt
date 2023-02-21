@@ -18,9 +18,9 @@ FeatCorr.ipynb  (churn)
 	feature correlations with target labels
     ("Ground Truth") 
 
-FeatSel.ipynb  (toju)
+FeatSel.ipynb  (churn)
 	feature selection based on their influence on the 
-	model results
+	model results - mlxtend functions (efficient)
 
 hypopt-KNN.ipynb  (toju) 
 	hyperparameter optimisation using Grid Search and 
@@ -34,7 +34,9 @@ mComp-ptst.ipynb  (toju)
 	model comparison using cross validation and 
 	statistical hypothesis testing
 
-
+rfecvFeatSel.ipynb  (toju)
+	feature selection based on their influence on the 
+	model results - sklearn functions (inefficient)
 
 
 
