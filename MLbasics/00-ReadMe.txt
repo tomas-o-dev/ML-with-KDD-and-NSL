@@ -34,10 +34,6 @@ mComp-ptst.ipynb  (toju)
 	model comparison using cross validation and 
 	statistical hypothesis testing
 
-rfecvFeatSel.ipynb  (toju)
-	feature selection based on their influence on the 
-	model results - sklearn functions (inefficient)
-
 
 
 >=< - Notes - >=< 
