@@ -16,11 +16,14 @@
 """
 
 from .mylib import show_labels_dist, show_metrics, bias_var_metrics
-# from .stmc_tests import GroupResult, run_nemenyi 
+from .selcb import filter_fcy, rpt_ycor, get_filter 
 
 __all__ = ['show_labels_dist'
-#           'run_friedman',
-#           'run_nemenyi',
-#           'run_shaffer',
            'bias_var_metrics',
-           'show_metrics']
+           'show_metrics'
+#           'run_this',
+#           'run_that',
+#           'run_othr',
+           'filter_fcy',
+           'rpt_ycor'
+           'get_filter']
