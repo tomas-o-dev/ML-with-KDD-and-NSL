@@ -1,6 +1,6 @@
 
-These notebooks use two "toy" datasets to illustrate 
-aspects of the classification ML Pipeline
+These notebooks use two "toy" datasets and a local library
+to illustrate aspects of the classification ML Pipeline
 
 The "bank churn" dataset has text and numeric features, 
 and is a two-class (binary) prediction problem
