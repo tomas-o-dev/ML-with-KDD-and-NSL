@@ -17,13 +17,14 @@
 
 from .mylib import show_labels_dist, show_metrics, bias_var_metrics
 from .selcb import filter_fcy, rpt_ycor, get_filter 
+from .qbinr import autobin
 
 __all__ = ['show_labels_dist'
            'bias_var_metrics',
            'show_metrics'
 #           'run_this',
 #           'run_that',
-#           'run_othr',
+           'autobin',
            'filter_fcy',
            'rpt_ycor'
            'get_filter']
