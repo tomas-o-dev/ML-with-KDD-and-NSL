@@ -14,11 +14,11 @@ DataPrep.ipynb  (churn)
 EvalViz.ipynb  (toju)
 	visualising the confusion matrix and model results
 
-FeatCorr.ipynb  (churn)
+FeatSelCorr.ipynb  (churn)
 	feature correlations with target labels
     ("Ground Truth") 
 
-FeatSel.ipynb  (churn)
+FeatSelCV.ipynb  (churn)
 	feature selection based on their influence on the 
 	model results - mlxtend functions (efficient)
 
